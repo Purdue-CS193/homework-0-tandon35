@@ -1,5 +1,11 @@
 ## Welcome to GitHub Pages
 
+# Abhyudai's First CS193 Homework
+
+- CS193 is taught by TAs who were students just like us!
+- CS193 teaches us important skills like how to use GitHub and the Terminal
+- CS193 is a simple and straighforward class where it is easy to succeed.
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
